@@ -2,7 +2,7 @@
 <img src="https://github.com/frontendbr/brand/blob/master/src/png/logo-600px--horizontal--color.png" width="400" alt="Front-end Brasil">
 </p>
 <h1 align="center">Brand Guidelines</h1>
-<p align="center">:pencil2: Guias e regras para a utilização da marca Front-end Brasil.</p>
+<p align="center">:art: Guias e regras para a utilização da marca Front-End Brasil.</p>
 
 ## Logotipo
 <img src="https://github.com/frontendbr/brand/blob/master/src/png/logo-600px--horizontal--color.png" width="300" alt="Front-end Brasil">
