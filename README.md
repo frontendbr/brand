@@ -5,6 +5,10 @@
 <p align="center">:art: Guias e regras para a utilização da marca Front-End Brasil.</p>
 
 ## Logotipo
+A marca da **Front-end Brasil** foi decidida através de uma [votação democrática (#24)](https://github.com/frontendbr/sugestoes/issues/24) com diversas propostas feitas pela comunidade.
+
+A proposta mais votada, e vencedora, foi a do [@matheusmonteiro](https://github.com/matheusmonteiro), _alguns ajustes foram feitos para encaixar-se melhor nas boas práticas de design._
+
 <img src="https://github.com/frontendbr/brand/blob/master/src/png/logo-600px--horizontal--color.png" width="300" alt="Front-end Brasil">
 
 ### Formatos
@@ -38,7 +42,7 @@
 
 
 ## License
-MIT &copy; Front-end Brasil
+MIT &copy; Front-End Brasil
 
 ## Repositórios da Front-End Brasil
 
