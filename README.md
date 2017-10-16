@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/frontendbr/brand/blob/master/src/png/logo-600px--horizontal--color.png" width="400" alt="Front-end Brasil">
+<img src="https://raw.githubusercontent.com/frontendbr/brand/f33a3aa9/src/png/logo-600px--horizontal--color.png" width="400" alt="Front-end Brasil">
 </p>
 <h1 align="center">Brand Guidelines</h1>
 <p align="center">:art: Guias e regras para a utilização da marca Front-End Brasil.</p>
