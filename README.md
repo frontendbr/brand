@@ -48,6 +48,7 @@ MIT &copy; Front-End Brasil
 
 * [Fórum](https://github.com/frontendbr/forum)
 * [Eventos](https://github.com/frontendbr/eventos)
+* [Eventos API](https://github.com/frontendbr/eventos-api)
 * [Vagas](https://github.com/frontendbr/vagas)
 * [Doe um livro](https://github.com/frontendbr/doe-um-livro)
 * [Poste mais!](https://github.com/frontendbr/poste-mais)
